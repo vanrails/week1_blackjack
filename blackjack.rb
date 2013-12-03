@@ -46,7 +46,7 @@ player_name = gets.chomp
 puts
 
 while true
-	player_hand = []
+  player_hand = []
 	dealer_hand = []
 	game_over = false
 	deck = create_deck
