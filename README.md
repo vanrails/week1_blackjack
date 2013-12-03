@@ -2,6 +2,7 @@ week1_blackjack
 ===============
 
 Text based game of blackjack
+
 Rules & Requirements:
 Blackjack is a card game where you calculate the sum of the values of your cards and try to hit 21, aka "blackjack". Both the player and dealer are dealt two cards to start the game. All face cards are worth whatever numerical value they show. Suit cards are worth 10. Aces can be worth either 11 or 1. Example: if you have a Jack and an Ace, then you have hit "blackjack", as it adds up to 21.
 
